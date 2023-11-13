@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day6\ConAppJaggedArray\ConAppJaggedArray\bin\Debug\ConAppJaggedArray.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day6\ConAppJaggedArray\ConAppJaggedArray\bin\Debug\ConAppJaggedArray.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day6\ConAppJaggedArray\ConAppJaggedArray\bin\Debug\ConAppJaggedArray.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day6\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day6\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day6\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day6\ConAppJaggedArray\ConAppJaggedArray\obj\Debug\ConAppJaggedArray.pdb
